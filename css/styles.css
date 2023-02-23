@@ -1,0 +1,150 @@
+a {
+    color: #11999E;
+    padding: 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: "bc-sklonar", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 10px;
+    color: #EAF6F6;
+    width: 10%;
+    margin: 100px auto;
+}
+
+p {
+    color: #40514E;
+    line-height: 2;
+}
+
+.bottom-cloud {
+    bottom: 300px;
+    left: 15%;
+    position: absolute;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-family: "bc-sklonar", sans-serif;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.profile {
+    margin: 100px auto;
+}
+
+.profile-pic {
+    border-radius: 100%;
+    height: 200px;
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+}
+
+.skills {
+    margin: 100px auto;
+}
+
+.skill-row {
+    margin: 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.sketch {
+    float: left;
+    margin: 30px;
+    width: 25%;
+}
+
+.investment {
+    float: right;
+    margin: 30px;
+    width: 25%;
+}
+
+.contact-me {
+    margin: 100px auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 20%;
+    top: 20px;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position: relative;
+}
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    position: relative;
+    padding: 30px;
+}
+
+.footer-copyright {
+    color: #EAF6F6;
+}
